@@ -17,6 +17,7 @@ Excited to publish projects on GitHub and share ideas with the community.
 > * Excel
 > * SQL
 > * [Tableau](https://public.tableau.com/app/profile/samirtrillioner)
+> * Power BI
 > * Python
 
 ##  EDUCATION:

@@ -1,34 +1,25 @@
-# samiralikperov
+## ABOUT ME
  ### Hi, my name is Samir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I like everything about data and finance.
-
-I study data analysis, data engineering, machine learning, financial analytics with great interest. 
-
-I will publish my projects on GitHub and  will be happy to share my ideas, projects with you.
+Passionate about data and finance. Keenly studying data analysis, data engineering, machine learning, and financial analytics. 
+Excited to publish projects on GitHub and share ideas with the community.
 
 
 
 <br />
 
-🔘  Languages and Tools:
+##  HARD SKILLS:
 
 <br />
 
 
-🔘  Projects:
+##  PROJECTS:
 > * Excel
 > * SQL
 > * [Tableau](https://public.tableau.com/app/profile/samirtrillioner)
 > * Python
 
-
-<br />
-
-🔘  My tasks for the near future:
-
-<br />
-
+##  EDUCATION:
 
 
 ## CONTACTS

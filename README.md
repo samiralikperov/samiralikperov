@@ -5,6 +5,7 @@ Passionate about data and finance. Keenly studying data analysis, data engineeri
 Excited to publish projects on GitHub and share ideas with the community. My expertise spans sales planning, forecasting, data analysis, visualization, and employee motivation, all strategically focused on enhancing operational processes and financial outcomes through detailed modeling of products and budgets.
 
 [**Portfolio: Click for insights!**](https://samiralikperov.github.io/about/)
+[**Resume: Click to explore my expertise!**](https://docs.google.com/document/d/187Om0MZeYc78C-8DmStuVdlMEt2qGBROpLGOgSFMMtU/edit?usp=sharing)
 
 
 ## PROFESSIONAL FUNCTION:

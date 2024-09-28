@@ -27,12 +27,12 @@ Excited to publish projects on GitHub and share ideas with the community. My exp
 
 ## EXPLORE MY PROJECTS
 
-- [Excel Portfolio](https://github.com/samiralikperov/excel-portfolio)
-- [SQL Portfolio](https://github.com/samiralikperov/sql-portfolio)
-- [Python Portfolio](https://github.com/samiralikperov/python-portfolio)
-- [Power BI Portfolio](https://github.com/samiralikperov/powerbi-portfolio)
-- [Tableau Portfolio](https://github.com/samiralikperov/tableau-portfolio)
-- [Machine Learning Portfolio](https://github.com/samiralikperov/ml-portfolio)
+- [Excel](https://github.com/samiralikperov/excel-portfolio)
+- [SQL](https://github.com/samiralikperov/sql-portfolio)
+- [Python](https://github.com/samiralikperov/python-portfolio)
+- [Power BI](https://github.com/samiralikperov/powerbi-portfolio)
+- [Tableau](https://github.com/samiralikperov/tableau-portfolio)
+- [Machine Learning](https://github.com/samiralikperov/ml-portfolio)
 
 
 ## CONTACTS

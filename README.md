@@ -4,8 +4,9 @@
 Passionate about data and finance. Keenly studying data analysis, data engineering, machine learning, and financial analytics. 
 Excited to publish projects on GitHub and share ideas with the community. My expertise spans sales planning, forecasting, data analysis, visualization, and employee motivation, all strategically focused on enhancing operational processes and financial outcomes through detailed modeling of products and budgets.
 
-[**Portfolio: Click for insights!**](https://samiralikperov.github.io/)  
-[**Resume: Click to explore my expertise!**](https://docs.google.com/document/d/1BEL5l5ZnlTdJc5OKiuH1SkiMQf6hS6HRAZUZvlrRANM/edit)
+|PORTFOLIO WEBSITE|RESUME|
+|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|[**Visit my website for highlights of my best work!**](https://samiralikperov.github.io/)|[**Explore my professional expertise and experience!**](https://docs.google.com/document/d/1BEL5l5ZnlTdJc5OKiuH1SkiMQf6hS6HRAZUZvlrRANM/edit)|
 
 ## PROFESSIONAL FUNCTION:
   ![Sales Planning and Forecasting](https://img.shields.io/badge/-Sales_Planning_and_Forecasting-090909?style=for-the-badge&logo=Sales_Planning_and_Forecasting)
@@ -24,7 +25,8 @@ Excited to publish projects on GitHub and share ideas with the community. My exp
 ![Bachelor's degree](https://img.shields.io/badge/-Bachelor's_degree-090909?style=for-the-badge&logo=Bachelor's_degree) ![The College of the Economy, Insurance and Information Technology](https://img.shields.io/badge/-The%20College%20of%20the%20Economy%2C%20Insurance%20and%20Information%20Technology-090909?style=for-the-badge&logo=university)  
 
 
-## EXPLORE MY WORK
+## EXPLORE MY PROJECTS
+
 - [Excel Portfolio](https://github.com/samiralikperov/excel-portfolio)
 - [SQL Portfolio](https://github.com/samiralikperov/sql-portfolio)
 - [Python Portfolio](https://github.com/samiralikperov/python-portfolio)

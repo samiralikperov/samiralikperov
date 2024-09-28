@@ -23,6 +23,16 @@ Excited to publish projects on GitHub and share ideas with the community. My exp
 ![Master's degree](https://img.shields.io/badge/-Master's_degree-090909?style=for-the-badge&logo=Master's_degree)![Moscow State University of Economics, Statistics and Informatics](https://img.shields.io/badge/-Moscow%20State%20University%20of%20Economics%2C%20Statistics%20and%20Informatics-090909?style=for-the-badge&logo=university)  
 ![Bachelor's degree](https://img.shields.io/badge/-Bachelor's_degree-090909?style=for-the-badge&logo=Bachelor's_degree) ![The College of the Economy, Insurance and Information Technology](https://img.shields.io/badge/-The%20College%20of%20the%20Economy%2C%20Insurance%20and%20Information%20Technology-090909?style=for-the-badge&logo=university)  
 
+
+## EXPLORE MY WORK
+- [Excel Portfolio](https://github.com/samiralikperov/excel-portfolio)
+- [SQL Portfolio](https://github.com/samiralikperov/sql-portfolio)
+- [Python Portfolio](https://github.com/samiralikperov/python-portfolio)
+- [Power BI Portfolio](https://github.com/samiralikperov/powerbi-portfolio)
+- [Tableau Portfolio](https://github.com/samiralikperov/tableau-portfolio)
+- [Machine Learning Portfolio](https://github.com/samiralikperov/ml-portfolio)
+
+
 ## CONTACTS
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](alikperov.samir.nyc@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/samiralikperov/) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/samirtrillioner)
 

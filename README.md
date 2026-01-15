@@ -6,7 +6,7 @@ Excited to publish projects on GitHub and share ideas with the community. My exp
 
 |PORTFOLIO WEBSITE|
 |-----------------------------------------------------------------------------------------------------|
-|[**Visit my website for highlights of my best work!**](https://mavenshowcase.com/profile/18f193a0-10a1-70da-8d42-d146c2905d95)|
+|[**Visit my website for highlights of my best work!**](https://rebrand.ly/analystsamir)|
 
 ## PROFESSIONAL FUNCTION:
   ![Sales Planning and Forecasting](https://img.shields.io/badge/-Sales_Planning_and_Forecasting-090909?style=for-the-badge&logo=Sales_Planning_and_Forecasting)

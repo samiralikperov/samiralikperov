@@ -35,7 +35,7 @@ Excited to publish projects on GitHub and share ideas with the community. My exp
 
 
 ## CONTACTS
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](alikperov.samir.nyc@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/samiralikperov/) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/samirtrillioner)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](alikperov.samir.nyc@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/samiralikperov/)
 
 
 ## GITHUB STATS:
